@@ -1,0 +1,166 @@
+header{
+    text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10;
+    padding: 15;
+    background-color: rgba(232, 228, 9, 0.949); 
+    
+}
+
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+
+
+}
+.rpg{
+    top: -240px; /* Move a div  para baixo da posição original */
+  left: 8px; /* Move a div  para a direita da posição original */
+    margin: 0px;
+    background-color:rgb(8, 167, 8);
+    border: 10px double rgb(46, 114, 4);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(98, 171, 3);
+    position: relative;
+}
+
+.rpg2{
+    width: 600px;  /* Define a largura */
+  height: 250px; /* Define a altura  */
+    top: -220px; /* Move a div para baixo da posição original */
+  left: 10px; /* Move a div  para a direita da posição original */
+    margin: 20px;
+    background-color: rgb(8, 167, 8);
+    border: 10px double rgb(46, 114, 4);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(98, 171, 3);
+    position: relative;
+}
+
+.rpg3{
+    width: 633px;  /* Define a largura para */
+  height: 250px; /* Define a altura para  */
+    top: -550px; /* Move a div  para baixo da posição original */
+  left: 745px; /* Move a div para a direita da posição original */
+    margin: 20px;
+    background-color:rgb(8, 167, 8);
+    border: 10px double rgb(46, 114, 4);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(98, 171, 3);
+    position: relative;
+}
+
+
+.menu{
+width: 80px; 
+  height: 180px;
+    top: -350px;
+  left: px; 
+    margin: 20px;
+    background-color: rgb(8, 167, 8);
+    border: 10px double rgb(46, 114, 4);
+    border-radius: 10px; 
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgb(98, 171, 3);
+    position: relative;
+}
+
+.ficha{
+  width: 1180px;  /* Define a largura para */
+height: 120px; /* Define a altura para  */
+  top: -240px; /* Move a div  para baixo da posição original */
+left: 100px; /* Move a div para a direita da posição original */
+  margin: 20px;
+  background-color:rgb(8, 167, 8);
+  border: 10px double rgb(46, 114, 4);
+  border-radius: 10px; /*pra arrendondar a borda */
+  padding: 20px; /*Espaço interno */
+  box-shadow: 0px 0px 10px rgb(98, 171, 3);
+  position: relative;
+}
+
+.individualidade{
+  width: 1180px;  /* Define a largura para */
+height: 250px; /* Define a altura para  */
+  top: 50px; /* Move a div  para baixo da posição original */
+left: -50px; /* Move a div para a direita da posição original */
+  margin: 20px;
+  background-color:rgb(8, 167, 8);
+  border: 10px double rgb(46, 114, 4);
+  border-radius: 10px; /*pra arrendondar a borda */
+  padding: 20px; /*Espaço interno */
+  box-shadow: 0px 0px 10px rgb(98, 171, 3);
+  position: relative;
+}
+
+.comecando{
+  width: 1180px;  /* Define a largura para */
+height: 200px; /* Define a altura para  */
+  top: 20px; /* Move a div  para baixo da posição original */
+left: -50px; /* Move a div para a direita da posição original */
+  margin: 20px;
+  background-color:rgb(8, 167, 8);
+  border: 10px double rgb(46, 114, 4);
+  border-radius: 10px; /*pra arrendondar a borda */
+  padding: 20px; /*Espaço interno */
+  box-shadow: 0px 0px 10px rgb(98, 171, 3);
+  position: relative;
+}
+
+.oque{
+  width: 1100px;  /* Define a largura para */
+height: 200px; /* Define a altura para  */
+  top: -270px; /* Move a div  para baixo da posição original */
+left: 130px; /* Move a div para a direita da posição original */
+  margin: 20px;
+  background-color:rgb(8, 167, 8);
+  border: 10px double rgb(46, 114, 4);
+  border-radius: 10px; /*pra arrendondar a borda */
+  padding: 20px; /*Espaço interno */
+  box-shadow: 0px 0px 10px rgb(98, 171, 3);
+  position: relative;
+}
+
+.feiticos{
+  width: 1000px;  /* Define a largura para */
+height: 700px; /* Define a altura para  */
+  top: -250px; /* Move a div  para baixo da posição original */
+left: 180px; /* Move a div para a direita da posição original */
+  margin: 20px;
+  background-color:rgb(8, 167, 8);
+  border: 10px double rgb(46, 114, 4);
+  border-radius: 10px; /*pra arrendondar a borda */
+  padding: 20px; /*Espaço interno */
+  box-shadow: 0px 0px 10px rgb(98, 171, 3);
+  position: relative;
+}
+
+.contato{
+  width: 500px;  /* Define a largura para */
+height: 100px; /* Define a altura para  */
+  top: -270px; /* Move a div  para baixo da posição original */
+left: 440px; /* Move a div para a direita da posição original */
+  margin: 20px;
+  background-color:rgb(8, 167, 8);
+  border: 10px double rgb(46, 114, 4);
+  border-radius: 10px; /*pra arrendondar a borda */
+  padding: 20px; /*Espaço interno */
+  box-shadow: 0px 0px 10px rgb(98, 171, 3);
+  position: relative;
+  text-align: center;
+}
+
